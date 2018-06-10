@@ -1,4 +1,4 @@
-# basic options this will not be shown anywhere because this YML and is calles a hash or hashtag. 
+# basic options this will not be shown anywhere because this YML and is calles a hash or hashtag.
 # It's going to be ignored by the computer because its human language
 title: Dorky is the title
 author: Dorky 101
@@ -7,7 +7,7 @@ description: A wonderful site
 twitter_username: jekyllrb
 github_username:  starsassault
 
-# Build settings. 
+# Build settings.
 markdown: kramdown
 theme: minima
 

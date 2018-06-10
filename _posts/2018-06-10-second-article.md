@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A great second article hehe
+title: Changing the directory name
 ---
 
 This is the second post or article
