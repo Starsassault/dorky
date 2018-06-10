@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 title: A great second article
 ---
 
