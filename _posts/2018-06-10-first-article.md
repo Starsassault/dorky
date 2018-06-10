@@ -1,6 +1,6 @@
 ---
-layout: post
-title: this is the blog post title which does not have to be the same as the file name
+layout: article
+title: this is the article title which does not have to be the same as the file name
 ---
 
 Yay.
