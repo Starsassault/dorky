@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Aboute
 ---
 
 This is an about page about this awesome site.
@@ -10,7 +10,7 @@ Reasons:
 - its great.
 - its a test.
 
-## Other thoughts
+## Other thoughts and such
 
 This is boring.
 
