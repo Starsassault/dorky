@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 title: this is the article title which does not have to be the same as the file name
 ---
 
