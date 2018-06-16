@@ -9,7 +9,7 @@ Okay this is al little hard to explain but whatever.
 2. Next save it somehwere where you can easily find it.
 3. Open the terminal and type 'sd ' and drag the folder behind it. hit enter and now you'll be in that directory. (aka nothing really happens)
 4. 'jekyll serve --livereload' hit enter
-5. open browser and go to '[=http://localhost:4000'](http://localhost:4000')
+5. open browser and go to '[http://localhost:4000'](http://localhost:4000')
 
 Now you can edit the website offline before pushing it.
 6. Launch Atom.
@@ -22,7 +22,7 @@ Now you can edit the website offline before pushing it.
 9. hit cmd-s everytime you want to see how the layout looks. (jekyll isn't on livereload for nothing).
 
 
-# test
+# test2
 
 ps.
 
