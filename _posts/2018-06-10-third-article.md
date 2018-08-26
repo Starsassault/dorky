@@ -7,8 +7,8 @@ Okay this is al little hard to explain but whatever.
 
 1. Get the repository files from github by cloning it to the github software.
 2. Next save it somehwere where you can easily find it.
-3. Open the terminal and type 'sd ' and drag the folder behind it. hit enter and now you'll be in that directory. (aka nothing really happens)
-4. 'jekyll serve --livereload' hit enter
+3. Open the terminal and type 'cd ' and drag the folder behind it. hit enter and now you'll be in that directory. (aka nothing really happens)
+4. 'bundle exec jekyll serve --livereload' hit enter
 5. open browser and go to '[http://localhost:4000'](http://localhost:4000')
 
 Now you can edit the website offline before pushing it.
